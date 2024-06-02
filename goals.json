@@ -1,0 +1,14 @@
+[
+  {
+    "nama": "Konsisten Belajar",
+    "deskripsi": "Belajar setidaknya 2 jam setiap hari.",
+    "kategori": "Pendidikan",
+    "tercapai": "tercapai ✓"
+  },
+  {
+    "nama": "Konsisten Olahraga",
+    "deskripsi": "Berolahraga minimal 3 kali seminggu.",
+    "kategori": "Kesehatan",
+    "tercapai": "belum tercapai"
+  }
+]

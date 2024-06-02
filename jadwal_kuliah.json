@@ -1,0 +1,113 @@
+[
+    {
+        "No": 1,
+        "Kode": "SVRI214201",
+        "Mata Kuliah": "Bahasa Inggris 2",
+        "SKS": 2,
+        "Ke": 1,
+        "Pengajar": "Unan Yusmaniar Oktiawati, S.T., M,Sc., Ph.D.",
+        "Hari": "Senin",
+        "Waktu": "09:15-10:55",
+        "Ruang": "R. KULIAH CU208"
+    },
+    {
+        "No": 2,
+        "Kode": "SVRI214202",
+        "Mata Kuliah": "Keselamatan dan Kesehatan Kerja",
+        "SKS": 2,
+        "Ke": 1,
+        "Pengajar": "Ir. Sri Lestari, MT.",
+        "Hari": "Selasa",
+        "Waktu": "09:15-10:55",
+        "Ruang": "R. KULIAH CU207"
+    },
+    {
+        "No": 3,
+        "Kode": "SVRI214203",
+        "Mata Kuliah": "Jaringan Komputer 2",
+        "SKS": 2,
+        "Ke": 1,
+        "Pengajar": "Anni Karimatul Fauziyyah, S.Kom., M.Eng.",
+        "Hari": "Selasa",
+        "Waktu": "07:15-08:55",
+        "Ruang": "R. KULIAH CU207"
+    },
+    {
+        "No": 4,
+        "Kode": "SVRI214205",
+        "Mata Kuliah": "Elektronika",
+        "SKS": 2,
+        "Ke": 1,
+        "Pengajar": "Ir. Muhammad Arrofiq, S.T., M.T. Ph.D.",
+        "Hari": "Senin",
+        "Waktu": "07:15-08:55",
+        "Ruang": "R. KULIAH CU207"
+    },
+    {
+        "No": 5,
+        "Kode": "SVRI214206",
+        "Mata Kuliah": "Sistem Operasi Jaringan",
+        "SKS": 2,
+        "Ke": 1,
+        "Pengajar": "Yuris Mulya Saputra, S.T., M.Sc., Ph.D.",
+        "Hari": "Kamis",
+        "Waktu": "14:15-15:55",
+        "Ruang": "R. KULIAH CU207"
+    },
+    {
+        "No": 6,
+        "Kode": "SVRI214307",
+        "Mata Kuliah": "Teknologi Nirkabel",
+        "SKS": 2,
+        "Ke": 1,
+        "Pengajar": "Alif Subardono, S.T.,M.Eng.",
+        "Hari": "Kamis",
+        "Waktu": "12:15-13:55",
+        "Ruang": "R. KULIAH CU206"
+    },
+    {
+        "No": 7,
+        "Kode": "SVRI214310",
+        "Mata Kuliah": "Praktikum Basis Data",
+        "SKS": 2,
+        "Ke": 1,
+        "Pengajar": "Dr. Ronald Adrian, S.T., M.Eng.",
+        "Hari": "Kamis",
+        "Waktu": "07:15-10:55",
+        "Ruang": "LAB TAJ KOMPUTER JARINGAN CU 106"
+    },
+    {
+        "No": 8,
+        "Kode": "SVRI214207",
+        "Mata Kuliah": "Praktikum Jaringan Komputer1",
+        "SKS": 2,
+        "Ke": 1,
+        "Pengajar": "Alif Subardono, S.T.,M.Eng.",
+        "Hari": "Rabu",
+        "Waktu": "07:15-10:55",
+        "Ruang": "LAB TAJ KOMPUTER JARINGAN CU 106"
+    },
+    {
+        "No": 9,
+        "Kode": "SVRI214208",
+        "Mata Kuliah": "Praktikum Pemrograman Berorientasi Objek",
+        "SKS": 2,
+        "Ke": 1,
+        "Pengajar": "Dr. Sahirul Alam, S.T., M.Eng.",
+        "Hari": "Selasa",
+        "Waktu": "12:15-15:55",
+        "Ruang": "LAB RPL 9 CU 101"
+    },
+    {
+        "No": 10,
+        "Kode": "SVRI214209",
+        "Mata Kuliah": "Praktikum Teknik Telekomunikasi",
+        "SKS": 2,
+        "Ke": 1,
+        "Pengajar": "Dr. Sahirul Alam, S.T., M.Eng.",
+        "Hari": "Rabu",
+        "Waktu": "12:15-15:55",
+        "Ruang": "LAYANAN TELEKOMUNIKASI G201a"
+    }
+]
+

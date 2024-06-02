@@ -1,0 +1,30 @@
+[
+  {
+    "mata_kuliah": "",
+    "jenis_tugas": "Presentasi Kelompok",
+    "deadline": "2024-05-28",
+    "status": "sedang dikerjakan",
+    "catatan": ""
+  },
+  {
+    "mata_kuliah": "",
+    "jenis_tugas": "Membaca Buku",
+    "deadline": "2024-06-15",
+    "status": "belum selesai",
+    "catatan": "Atomic Habits"
+  },
+  {
+    "mata_kuliah": "SOJ",
+    "jenis_tugas": "Linux",
+    "deadline": "2024-11-01",
+    "status": "belum selesai",
+    "catatan": "Kerjakan segera"
+  },
+  {
+    "mata_kuliah": "",
+    "jenis_tugas": "Laprak",
+    "deadline": "2024-06-29",
+    "status": "selesai",
+    "catatan": "Dealine 1 minggu"
+  }
+]

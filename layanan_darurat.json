@@ -1,0 +1,132 @@
+[
+    {
+        "nama": "Pelaporan dan Penanganan Kedaruratan",
+        "kontak": "0274 649 1234",
+        "deskripsi": "Apabila Anda mengalami atau menyaksikan keadaan darurat di lingkungan kampus atau yang melibatkan Sivitas UGM silakan menghubungi kontak yang sudah kami sediakan."
+    },
+    {
+        "nama": "Kantor Keamanan, Keselamatan Kerja, Kedaruratan, dan Lingkungan (K5L) - Kantor Pusat",
+        "kontak": "0274 649 1234",
+        "deskripsi": "Area Gedung Pusat dan sekitarnya"
+    },
+    {
+        "nama": "Kantor Keamanan, Keselamatan Kerja, Kedaruratan, dan Lingkungan (K5L) - Area Sektor Timur",
+        "kontak": "0274 649 1071",
+        "deskripsi": "Area Sektor Timur"
+    },
+    {
+        "nama": "Kantor Keamanan, Keselamatan Kerja, Kedaruratan, dan Lingkungan (K5L) - Area Sektor Barat",
+        "kontak": "0274 649 2243",
+        "deskripsi": "Area Sektor Barat"
+    },
+    {
+        "nama": "Rumah Sakit Akademik UGM (Layanan Kesehatan Mental)",
+        "kontak": "+62 811-2548-118",
+        "deskripsi": "Layanan Kesehatan Mental"
+    },
+    {
+        "nama": "Klinik GMC (Mental Health Support) - Psikolog",
+        "kontak": "+62 813-2620-0342",
+        "deskripsi": "Mental Health Support"
+    },
+    {
+        "nama": "Klinik GMC (Mental Health Support) - GMC",
+        "kontak": "+62 851-0047-3123",
+        "deskripsi": "Mental Health Support"
+    },
+    {
+        "nama": "Mental Health Emergency Response Line (MHERL), Unit Konsultasi Psikologi, Fakultas Psikologi",
+        "kontak": "+62 813-2952-0052",
+        "deskripsi": "Mental Health Emergency Response Line"
+    },
+    {
+        "nama": "Satuan Tugas Pencegahan dan Penanganan Kekerasan Seksual (Satgas PPKS)",
+        "kontak": "+62 811-2851-155",
+        "deskripsi": "Penanganan Kekerasan Seksual"
+    },
+    {
+        "nama": "ULT Khusus: Layanan Disabilitas",
+        "kontak": "+62 811-2869-988",
+        "deskripsi": "Layanan Disabilitas"
+    },
+    {
+        "nama": "Pengaduan lain",
+        "kontak": "aspirasi.ugm.ac.id",
+        "deskripsi": "Pengaduan lain"
+    },
+    {
+        "nama": "Pelayanan Krisis - Akademik",
+        "kontak": "+62 811-2941-949",
+        "deskripsi": "Pelayanan Krisis Akademik"
+    },
+    {
+        "nama": "Pelayanan Krisis - Kemahasiswaan",
+        "kontak": "+62 851-5601-4490",
+        "deskripsi": "Pelayanan Krisis Kemahasiswaan"
+    },
+    {
+        "nama": "Pelayanan Krisis - Sumber Daya Manusia",
+        "kontak": "+62 878-248-78248",
+        "deskripsi": "Pelayanan Krisis Sumber Daya Manusia"
+    },
+    {
+        "nama": "Pelayanan Krisis - Keuangan",
+        "kontak": "+62 811-2847-900",
+        "deskripsi": "Pelayanan Krisis Keuangan"
+    },
+    {
+        "nama": "Pelayanan Krisis - Kerja Sama Luar Negeri",
+        "kontak": "+62 821-3520-0032",
+        "deskripsi": "Pelayanan Krisis Kerja Sama Luar Negeri"
+    },
+    {
+        "nama": "Pelayanan Krisis - Alumni",
+        "kontak": "+62 811-2582-434",
+        "deskripsi": "Pelayanan Krisis Alumni"
+    },
+    {
+        "nama": "Pelayanan Krisis - Simaster",
+        "kontak": "+62 811-2826-546",
+        "deskripsi": "Pelayanan Krisis Simaster"
+    },
+    {
+        "nama": "Pelayanan Krisis - KKN-PPM",
+        "kontak": "+62 811-2576-939",
+        "deskripsi": "Pelayanan Krisis KKN-PPM"
+    },
+    {
+        "nama": "Layanan Psikologi Fakultas Biologi",
+        "kontak": "http://ugm.id/konselingbiologi",
+        "deskripsi": "Form Registrasi"
+    },
+    {
+        "nama": "Layanan Psikologi Fakultas Ekonomika dan Bisnis",
+        "kontak": "+62 811-2843-884",
+        "deskripsi": "Form Registrasi: Portal SINTESIS, Menu Layanan Konsultasi."
+    },
+    {
+        "nama": "Layanan Psikologi Fakultas Farmasi",
+        "kontak": "http://bit.ly/konseling-farmasi",
+        "deskripsi": "Form Registrasi"
+    },
+    {
+        "nama": "Layanan Psikologi Fakultas Ilmu Sosial dan Ilmu Politik",
+        "kontak": "+62 811-2838-400",
+        "deskripsi": "Form Registrasi: http://ugm.id/KonselingFISIPOLUGM"
+    },
+    {
+        "nama": "Layanan Psikologi Fakultas Kedokteran, Kesehatan Masyarakat dan Keperawatan",
+        "kontak": "+62 811-2570-027",
+        "deskripsi": "Form Registrasi: http://ugm.id/daftarkonselingfkkmk"
+    },
+    {
+        "nama": "Layanan Psikologi Fakultas Matematika dan Ilmu Pengetahuan Alam",
+        "kontak": "+62 838-6902-5003",
+        "deskripsi": "Form Registrasi: http://ugm.id/KonselingHPUFMIPA"
+    },
+    {
+        "nama": "Layanan Psikologi Fakultas Psikologi - Pojok Curhat",
+        "kontak": "+62 812-1573-5619",
+        "deskripsi": "Pojok Curhat"
+    }
+]

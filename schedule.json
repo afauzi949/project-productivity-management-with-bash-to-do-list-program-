@@ -1,0 +1,67 @@
+{
+    "hari": {
+        "Senin": [
+            {
+                "kode": "MK101",
+                "mata_kuliah": "Matematika",
+                "sks": 3,
+                "dosen": "Dr. A",
+                "jadwal": {
+                    "tanggal": "2024-05-20",
+                    "jam": "08:00-10:00",
+                    "ruang": "R101"
+                }
+            },
+            {
+                "kode": "MK102",
+                "mata_kuliah": "Fisika",
+                "sks": 2,
+                "dosen": "Dr. B",
+                "jadwal": {
+                    "tanggal": "2024-05-20",
+                    "jam": "10:00-12:00",
+                    "ruang": "R102"
+                }
+            }
+        ],
+        "Selasa": [
+            {
+                "kode": "MK103",
+                "mata_kuliah": "Kimia",
+                "sks": 3,
+                "dosen": "Dr. C",
+                "jadwal": {
+                    "tanggal": "2024-05-21",
+                    "jam": "08:00-10:00",
+                    "ruang": "R201"
+                }
+            }
+        ],
+        "Rabu": [
+            {
+                "kode": "MK104",
+                "mata_kuliah": "Biologi",
+                "sks": 3,
+                "dosen": "Dr. D",
+                "jadwal": {
+                    "tanggal": "2024-05-22",
+                    "jam": "08:00-10:00",
+                    "ruang": "R301"
+                }
+            }
+        ],
+        "Kamis": [
+            {
+                "kode": "MK105",
+                "mata_kuliah": "Sejarah",
+                "sks": 2,
+                "dosen": "Dr. E",
+                "jadwal": {
+                    "tanggal": "2024-05-23",
+                    "jam": "08:00-10:00",
+                    "ruang": "R401"
+                }
+            }
+        ]
+    }
+}

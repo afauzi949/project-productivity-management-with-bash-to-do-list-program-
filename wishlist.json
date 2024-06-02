@@ -1,0 +1,20 @@
+[
+  {
+    "nama": "Beli Laptop Baru",
+    "deskripsi": "Laptop untuk keperluan kerja",
+    "kategori": "Elektronik",
+    "jumlah_target": 15000000,
+    "jumlah_saat_ini": 15000000,
+    "tanggal_target": "2024-12-31",
+    "tercapai": "tercapai ✓"
+  },
+  {
+    "nama": "Liburan ke Bali",
+    "deskripsi": "Liburan bersama keluarga",
+    "kategori": "Travel",
+    "jumlah_target": 10000000,
+    "jumlah_saat_ini": 2000000,
+    "tanggal_target": "2024-08-01",
+    "tercapai": "belum tercapai"
+  }
+]
