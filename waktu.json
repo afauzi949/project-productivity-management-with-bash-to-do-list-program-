@@ -1,16 +1,23 @@
 [
   {
-    "aktivitas": "Membaca buku baru",
-    "durasi": "30 menit",
-    "catatan": "baru setengah",
-    "tanggal": "2024-03-01",
-    "hari": "senin"
+    "aktivitas": "Nongkrong",
+    "durasi": "6 Jam",
+    "catatan": "malming bersama teman",
+    "tanggal": "2024-06-01",
+    "hari": "Sabtu"
   },
   {
-    "aktivitas": "Olahraga anjay",
-    "durasi": "30",
-    "catatan": "anjay",
-    "tanggal": "2024-03-01",
+    "aktivitas": "Zoom project",
+    "durasi": "3 Jam",
+    "catatan": "Bahas Git & Github",
+    "tanggal": "2024-06-01",
+    "hari": "Sabtu"
+  },
+  {
+    "aktivitas": "ngaji",
+    "durasi": "30 menit",
+    "catatan": "ibadah",
+    "tanggal": "2024-06-01",
     "hari": "Senin"
   }
 ]

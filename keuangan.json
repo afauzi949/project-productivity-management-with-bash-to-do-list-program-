@@ -1,16 +1,9 @@
 [
   {
-    "tanggal": "2024-03-01",
-    "keterangan": "uang saku",
-    "kategori": "pemasukan",
+    "tanggal": "2024-03-02",
+    "keterangan": "Uang saku",
+    "kategori": "Pemasukan",
     "jumlah": 1000000,
     "tipe": "pemasukan"
-  },
-  {
-    "tanggal": "2024-02-01",
-    "keterangan": "jajan",
-    "kategori": "makanan",
-    "jumlah": 160000,
-    "tipe": "pengeluaran"
   }
 ]
